@@ -18,33 +18,33 @@ int main()
 
     // test_push_pop requires: push_front, front, pop_front, and the 
     // size_ variable incremented correctly
-    //tester.test_push_pop();
+    tester.test_push_pop();
 
     // test_null_copy requires the copy constructor method only
-    //tester.test_null_copy();
+    tester.test_null_copy();
 
     // test_copy_constructor requires push_front, front, pop_front and copy constructor
-    //tester.test_copy_constructor();
+    tester.test_copy_constructor();
 
     // test_initializer_list requires initializer list constructor, front, and pop_front
-    //tester.test_initializer_list();
+    tester.test_initializer_list();
 
     // test_initializer_list_str requires the same as test_initializer_list
-    //tester.test_initializer_list_str();
+    tester.test_initializer_list_str();
 
     // test_merge requires push_front, front, pop_front and merge
-    //tester.test_merge();
+    tester.test_merge();
 
     // same as test_merge
-    //tester.test_merge_edge_cases();
+    tester.test_merge_edge_cases();
 
     // test_split requires push_front, front, pop_front, copy constructor and split
-    //tester.test_split();
+    tester.test_split();
 
     // test_split_and_merge requires push_front, front, pop_front, copy constructor, merge and split
-    //tester.test_split_and_merge();
+    tester.test_split_and_merge();
 
     // test_sort requires push_front, front, pop_front, copy constructor, merge and split
-    //tester.test_sort();
+    tester.test_sort();
     return 0;
 }
