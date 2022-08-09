@@ -1,2 +1,9 @@
 # 31251-Data-Structures-and-Algorithms
-31251 Data Structures and Algorithms (Autumn 2022)
+
+**University of Technology Sydney**
+
+**Session:** Autumn 2022
+
+**Subject:** 31251 Data Structures and Algorithms
+
+**Final Grade:** High Distinction 86/100
